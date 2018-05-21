@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Tennis No-Ad ScoreKeeper</string>
+    <string name="name">Name</string>
+    <string name="set_score">SET SCORE</string>
+    <string name="game_score">GAME SCORE</string>
+    <string name="set_headers">Name</string>
+    <string name="set_1">Set 1</string>
+    <string name="set_2">Set 2</string>
+    <string name="set_3">Set 3</string>
+    <string name="player_1">Player 1</string>
+    <string name="_0">0</string>
+    <string name="space" />
+    <string name="_1">+1</string>
+    <string name="player_2">Player 2</string>
+    <string name="reset_set_score">Reset Set Score</string>
+    <string name="_1_point">+1 Point</string>
+    <string name="_0big">0</string>
+    <string name="reset_game_score">Reset Game Score</string>
+</resources>
